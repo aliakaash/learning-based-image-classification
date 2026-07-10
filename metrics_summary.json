@@ -1,0 +1,16 @@
+{
+  "ann": {
+    "test_accuracy": 0.6958333253860474,
+    "test_loss": 0.7723379135131836
+  },
+  "cnn": {
+    "test_accuracy": 0.9958333373069763,
+    "test_loss": 0.01633276976644993
+  },
+  "class_names": [
+    "circle",
+    "square",
+    "triangle",
+    "star"
+  ]
+}
